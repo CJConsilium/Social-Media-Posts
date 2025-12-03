@@ -329,3 +329,4 @@ Wed 03 Dec 2025 04:58:22 PM EST: Change detected: MODIFY -> auto-upload.log
 Wed 03 Dec 2025 04:58:23 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 04:58:25 PM EST: Change detected: CREATE,ISDIR -> 93
 Wed 03 Dec 2025 04:58:26 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 04:58:27 PM EST: Change detected: MOVED_FROM -> index.lock
