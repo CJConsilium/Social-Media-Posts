@@ -1349,3 +1349,4 @@ Wed 03 Dec 2025 05:24:35 PM EST: Change detected: CREATE -> be6117f4405bf0f0eeeb
 Wed 03 Dec 2025 05:24:36 PM EST: Change detected: DELETE -> tmp_obj_NQbp9b
 Wed 03 Dec 2025 05:24:38 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 05:24:39 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 05:24:40 PM EST: Change detected: MOVED_TO -> index
