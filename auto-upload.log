@@ -1164,3 +1164,4 @@ Wed 03 Dec 2025 05:20:16 PM EST: Change detected: MODIFY -> tmp_obj_Cuqls1
 Wed 03 Dec 2025 05:20:17 PM EST: Change detected: CREATE -> a04795db248492d71600edb40c9ab1b5e59e83
 Wed 03 Dec 2025 05:20:18 PM EST: Change detected: DELETE -> tmp_obj_Cuqls1
 Wed 03 Dec 2025 05:20:20 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 05:20:21 PM EST: Change detected: MOVED_FROM -> index.lock
