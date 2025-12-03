@@ -1419,3 +1419,4 @@ Wed 03 Dec 2025 05:26:11 PM EST: Change detected: CREATE -> b31d8b53d8c31f8e2a47
 Wed 03 Dec 2025 05:26:12 PM EST: Change detected: DELETE -> tmp_obj_iGxnux
 Wed 03 Dec 2025 05:26:14 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 05:26:15 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 05:26:16 PM EST: Change detected: MOVED_TO -> index
