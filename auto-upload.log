@@ -2827,3 +2827,4 @@ Wed 03 Dec 2025 06:06:32 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 06:06:34 PM EST: Change detected: CREATE -> tmp_obj_6YBTDB
 Wed 03 Dec 2025 06:06:35 PM EST: Change detected: MODIFY -> tmp_obj_6YBTDB
 Wed 03 Dec 2025 06:06:37 PM EST: Change detected: CREATE -> e6302909a41cdc4605d474ec87273cc1577a7e
+Wed 03 Dec 2025 06:06:38 PM EST: Change detected: DELETE -> tmp_obj_6YBTDB
