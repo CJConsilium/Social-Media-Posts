@@ -1723,3 +1723,4 @@ Wed 03 Dec 2025 05:33:52 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 05:33:53 PM EST: Change detected: CREATE -> tmp_obj_kVTlpM
 Wed 03 Dec 2025 05:33:55 PM EST: Change detected: MODIFY -> tmp_obj_kVTlpM
 Wed 03 Dec 2025 05:33:56 PM EST: Change detected: CREATE -> a1bcaa236761b199fc57014c37c0b0d113daca
+Wed 03 Dec 2025 05:33:57 PM EST: Change detected: DELETE -> tmp_obj_kVTlpM
