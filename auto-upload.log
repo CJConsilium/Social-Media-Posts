@@ -1008,3 +1008,4 @@ Wed 03 Dec 2025 05:16:00 PM EST: Change detected: MODIFY -> tmp_obj_omQtBU
 Wed 03 Dec 2025 05:16:01 PM EST: Change detected: CREATE -> ca02a7656a4824e9c150cebe5eede899859839
 Wed 03 Dec 2025 05:16:03 PM EST: Change detected: DELETE -> tmp_obj_omQtBU
 Wed 03 Dec 2025 05:16:05 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 05:16:06 PM EST: Change detected: MOVED_FROM -> index.lock
