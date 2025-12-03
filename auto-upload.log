@@ -3194,3 +3194,4 @@ Wed 03 Dec 2025 06:16:43 PM EST: Change detected: MODIFY -> tmp_obj_sSfmMq
 Wed 03 Dec 2025 06:16:44 PM EST: Change detected: CREATE -> abf99c5ac3500c11208a4c1f0b027ef43cb693
 Wed 03 Dec 2025 06:16:46 PM EST: Change detected: DELETE -> tmp_obj_sSfmMq
 Wed 03 Dec 2025 06:16:47 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 06:16:49 PM EST: Change detected: MOVED_FROM -> index.lock
