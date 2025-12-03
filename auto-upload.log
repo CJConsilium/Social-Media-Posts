@@ -3881,3 +3881,4 @@ Wed 03 Dec 2025 06:32:23 PM EST: Change detected: MODIFY -> tmp_obj_4lDMkp
 Wed 03 Dec 2025 06:32:24 PM EST: Change detected: CREATE -> 786978d90d4a29b4992136672efa5f7ec67a43
 Wed 03 Dec 2025 06:32:26 PM EST: Change detected: DELETE -> tmp_obj_4lDMkp
 Wed 03 Dec 2025 06:32:27 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 06:32:28 PM EST: Change detected: MOVED_FROM -> index.lock
