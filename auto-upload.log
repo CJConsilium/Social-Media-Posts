@@ -3640,3 +3640,4 @@ Wed 03 Dec 2025 06:27:14 PM EST: Change detected: MODIFY -> tmp_obj_SLdbA3
 Wed 03 Dec 2025 06:27:15 PM EST: Change detected: CREATE -> 66b6e94235364bc7253532c6015dd0b9d9d86a
 Wed 03 Dec 2025 06:27:16 PM EST: Change detected: DELETE -> tmp_obj_SLdbA3
 Wed 03 Dec 2025 06:27:17 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 06:27:19 PM EST: Change detected: MOVED_FROM -> index.lock
