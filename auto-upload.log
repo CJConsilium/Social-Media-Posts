@@ -5050,3 +5050,4 @@ Wed 03 Dec 2025 06:56:59 PM EST: Change detected: MODIFY -> tmp_obj_eZAt4w
 Wed 03 Dec 2025 06:57:01 PM EST: Change detected: CREATE -> e723755e71f0d53319a68815bac6faf5b67d2e
 Wed 03 Dec 2025 06:57:02 PM EST: Change detected: DELETE -> tmp_obj_eZAt4w
 Wed 03 Dec 2025 06:57:03 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 06:57:05 PM EST: Change detected: MOVED_FROM -> index.lock
