@@ -3253,3 +3253,4 @@ Wed 03 Dec 2025 06:18:15 PM EST: Change detected: MODIFY -> tmp_obj_SXLPQb
 Wed 03 Dec 2025 06:18:16 PM EST: Change detected: CREATE -> 9d5983207e8a5cbafe869c7ceaff2906837c87
 Wed 03 Dec 2025 06:18:18 PM EST: Change detected: DELETE -> tmp_obj_SXLPQb
 Wed 03 Dec 2025 06:18:19 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 06:18:21 PM EST: Change detected: MOVED_FROM -> index.lock
