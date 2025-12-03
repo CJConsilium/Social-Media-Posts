@@ -1063,3 +1063,4 @@ Wed 03 Dec 2025 05:17:19 PM EST: Change detected: CREATE -> tmp_obj_mu4Ekv
 Wed 03 Dec 2025 05:17:21 PM EST: Change detected: MODIFY -> tmp_obj_mu4Ekv
 Wed 03 Dec 2025 05:17:23 PM EST: Change detected: CREATE -> 9ab93719f2c565fc63ec83255e765b4c0cca02
 Wed 03 Dec 2025 05:17:25 PM EST: Change detected: DELETE -> tmp_obj_mu4Ekv
+Wed 03 Dec 2025 05:17:27 PM EST: Change detected: MODIFY -> index.lock
