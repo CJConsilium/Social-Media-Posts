@@ -187,3 +187,4 @@ Wed 03 Dec 2025 04:55:14 PM EST: Change detected: CREATE,ISDIR -> 8b
 Wed 03 Dec 2025 04:55:15 PM EST: Change detected: CREATE -> f4e3fbc6a086960a7ad110a599d3a1c39bb90f
 Wed 03 Dec 2025 04:55:16 PM EST: Change detected: DELETE -> tmp_obj_epn43w
 Wed 03 Dec 2025 04:55:18 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 04:55:19 PM EST: Change detected: MOVED_FROM -> index.lock
