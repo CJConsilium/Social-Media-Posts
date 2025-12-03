@@ -4050,3 +4050,4 @@ Wed 03 Dec 2025 06:35:52 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 06:35:54 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 06:35:55 PM EST: Change detected: MODIFY -> COMMIT_EDITMSG
 Wed 03 Dec 2025 06:35:56 PM EST: Change detected: CREATE,ISDIR -> 36
+Wed 03 Dec 2025 06:35:57 PM EST: Change detected: CREATE -> HEAD.lock
