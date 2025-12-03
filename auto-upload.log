@@ -1842,3 +1842,4 @@ Wed 03 Dec 2025 05:36:56 PM EST: Change detected: MODIFY -> tmp_obj_fH5pBT
 Wed 03 Dec 2025 05:36:57 PM EST: Change detected: CREATE -> 5cd2559b85f9af80c615b36d9beb65599d41e7
 Wed 03 Dec 2025 05:36:58 PM EST: Change detected: DELETE -> tmp_obj_fH5pBT
 Wed 03 Dec 2025 05:37:00 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 05:37:02 PM EST: Change detected: MOVED_FROM -> index.lock
