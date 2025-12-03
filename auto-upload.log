@@ -2241,3 +2241,4 @@ Wed 03 Dec 2025 05:48:11 PM EST: Change detected: MODIFY -> tmp_obj_rWmNuI
 Wed 03 Dec 2025 05:48:13 PM EST: Change detected: CREATE -> 8fee40acd918f40cb90fb63824e74b111daa48
 Wed 03 Dec 2025 05:48:16 PM EST: Change detected: DELETE -> tmp_obj_rWmNuI
 Wed 03 Dec 2025 05:48:18 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 05:48:19 PM EST: Change detected: MOVED_FROM -> index.lock
