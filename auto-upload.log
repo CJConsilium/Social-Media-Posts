@@ -745,3 +745,4 @@ Wed 03 Dec 2025 05:09:04 PM EST: Change detected: MODIFY -> tmp_obj_hiRcyV
 Wed 03 Dec 2025 05:09:05 PM EST: Change detected: CREATE -> 8a282483da7e14f98531170ce191c6cf72a27a
 Wed 03 Dec 2025 05:09:06 PM EST: Change detected: DELETE -> tmp_obj_hiRcyV
 Wed 03 Dec 2025 05:09:07 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 05:09:09 PM EST: Change detected: MOVED_FROM -> index.lock
