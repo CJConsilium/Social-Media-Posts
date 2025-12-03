@@ -1996,3 +1996,4 @@ Wed 03 Dec 2025 05:41:14 PM EST: Change detected: CREATE -> 75b5ee0110cabedb3897
 Wed 03 Dec 2025 05:41:16 PM EST: Change detected: DELETE -> tmp_obj_Puv5Pi
 Wed 03 Dec 2025 05:41:17 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 05:41:19 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 05:41:21 PM EST: Change detected: MOVED_TO -> index
