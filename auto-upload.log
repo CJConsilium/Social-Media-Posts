@@ -300,3 +300,4 @@ Wed 03 Dec 2025 04:57:44 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 04:57:46 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 04:57:47 PM EST: Change detected: CREATE,ISDIR -> f3
 Wed 03 Dec 2025 04:57:48 PM EST: Change detected: CREATE -> tmp_obj_dtfNIy
+Wed 03 Dec 2025 04:57:50 PM EST: Change detected: MODIFY -> tmp_obj_dtfNIy
