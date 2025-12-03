@@ -374,3 +374,4 @@ Wed 03 Dec 2025 04:59:22 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 04:59:24 PM EST: Change detected: CREATE,ISDIR -> 2d
 Wed 03 Dec 2025 04:59:25 PM EST: Change detected: MODIFY -> tmp_obj_LdVN68
 Wed 03 Dec 2025 04:59:26 PM EST: Change detected: CREATE -> 97b88b5ffa030a221409fa4b8a8cf59e19d078
+Wed 03 Dec 2025 04:59:28 PM EST: Change detected: DELETE -> tmp_obj_LdVN68
