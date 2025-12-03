@@ -376,3 +376,4 @@ Wed 03 Dec 2025 04:59:25 PM EST: Change detected: MODIFY -> tmp_obj_LdVN68
 Wed 03 Dec 2025 04:59:26 PM EST: Change detected: CREATE -> 97b88b5ffa030a221409fa4b8a8cf59e19d078
 Wed 03 Dec 2025 04:59:28 PM EST: Change detected: DELETE -> tmp_obj_LdVN68
 Wed 03 Dec 2025 04:59:30 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 04:59:32 PM EST: Change detected: MOVED_FROM -> index.lock
