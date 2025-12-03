@@ -3603,3 +3603,4 @@ Wed 03 Dec 2025 06:26:05 PM EST: Change detected: CREATE -> c091446f076ed430c607
 Wed 03 Dec 2025 06:26:06 PM EST: Change detected: DELETE -> tmp_obj_mMLSxq
 Wed 03 Dec 2025 06:26:08 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 06:26:10 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 06:26:12 PM EST: Change detected: MOVED_TO -> index
