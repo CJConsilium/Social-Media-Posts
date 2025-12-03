@@ -490,3 +490,4 @@ Wed 03 Dec 2025 05:02:20 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 05:02:22 PM EST: Change detected: MODIFY -> COMMIT_EDITMSG
 Wed 03 Dec 2025 05:02:23 PM EST: Change detected: MODIFY -> COMMIT_EDITMSG
 Wed 03 Dec 2025 05:02:26 PM EST: Change detected: CREATE,ISDIR -> 4e
+Wed 03 Dec 2025 05:02:29 PM EST: Change detected: CREATE -> HEAD.lock
