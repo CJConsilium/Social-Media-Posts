@@ -2215,3 +2215,4 @@ Wed 03 Dec 2025 05:47:26 PM EST: Change detected: MODIFY -> tmp_obj_CsXFso
 Wed 03 Dec 2025 05:47:27 PM EST: Change detected: CREATE -> 56efc052d0274308448410fb87a03e13bb3b09
 Wed 03 Dec 2025 05:47:29 PM EST: Change detected: DELETE -> tmp_obj_CsXFso
 Wed 03 Dec 2025 05:47:30 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 05:47:32 PM EST: Change detected: MOVED_FROM -> index.lock
