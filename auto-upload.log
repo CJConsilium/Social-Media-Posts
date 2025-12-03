@@ -849,3 +849,4 @@ Wed 03 Dec 2025 05:11:54 PM EST: Change detected: MOVED_FROM -> main.lock
 Wed 03 Dec 2025 05:11:55 PM EST: Change detected: MOVED_TO -> main
 Wed 03 Dec 2025 05:11:58 PM EST: Change detected: MODIFY -> auto-upload.log
 Wed 03 Dec 2025 05:12:00 PM EST: Change detected: CREATE -> index.lock
+Wed 03 Dec 2025 05:12:02 PM EST: Change detected: CREATE,ISDIR -> 59
