@@ -3918,3 +3918,4 @@ Wed 03 Dec 2025 06:33:08 PM EST: Change detected: MODIFY -> tmp_obj_RESshG
 Wed 03 Dec 2025 06:33:09 PM EST: Change detected: CREATE -> ba4f942bd71506320ee77846bd502094862369
 Wed 03 Dec 2025 06:33:10 PM EST: Change detected: DELETE -> tmp_obj_RESshG
 Wed 03 Dec 2025 06:33:12 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 06:33:13 PM EST: Change detected: MOVED_FROM -> index.lock
