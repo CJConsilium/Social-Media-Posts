@@ -2510,3 +2510,4 @@ Wed 03 Dec 2025 05:56:19 PM EST: Change detected: DELETE -> maintenance.lock
 Wed 03 Dec 2025 05:56:21 PM EST: Change detected: CREATE -> main.lock
 Wed 03 Dec 2025 05:56:24 PM EST: Change detected: MODIFY -> main.lock
 Wed 03 Dec 2025 05:56:26 PM EST: Change detected: MODIFY -> main
+Wed 03 Dec 2025 05:56:28 PM EST: Change detected: MOVED_FROM -> main.lock
