@@ -828,3 +828,4 @@ Wed 03 Dec 2025 05:11:18 PM EST: Change detected: MODIFY -> tmp_obj_OmckbH
 Wed 03 Dec 2025 05:11:20 PM EST: Change detected: CREATE -> 02348ead7914115dfec02d8a324565cb28cd87
 Wed 03 Dec 2025 05:11:21 PM EST: Change detected: DELETE -> tmp_obj_OmckbH
 Wed 03 Dec 2025 05:11:23 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 05:11:25 PM EST: Change detected: MOVED_FROM -> index.lock
