@@ -4809,3 +4809,4 @@ Wed 03 Dec 2025 06:51:53 PM EST: Change detected: DELETE -> tmp_obj_dKt9ui
 Wed 03 Dec 2025 06:51:54 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 06:51:55 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 06:51:56 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 06:51:58 PM EST: Change detected: CREATE -> index.lock
