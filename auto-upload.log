@@ -2610,3 +2610,4 @@ Wed 03 Dec 2025 05:59:24 PM EST: Change detected: CREATE -> d05462f7221659d5ba3e
 Wed 03 Dec 2025 05:59:27 PM EST: Change detected: DELETE -> tmp_obj_PHXKiI
 Wed 03 Dec 2025 05:59:29 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 05:59:31 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 05:59:32 PM EST: Change detected: MOVED_TO -> index
