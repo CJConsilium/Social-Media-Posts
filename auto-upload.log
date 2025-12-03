@@ -4037,3 +4037,4 @@ Wed 03 Dec 2025 06:35:36 PM EST: Change detected: CREATE -> tmp_obj_GpKmIs
 Wed 03 Dec 2025 06:35:37 PM EST: Change detected: MODIFY -> tmp_obj_GpKmIs
 Wed 03 Dec 2025 06:35:39 PM EST: Change detected: CREATE -> 50d5847a9774060a9d34f94f0f98f8ba90700c
 Wed 03 Dec 2025 06:35:40 PM EST: Change detected: DELETE -> tmp_obj_GpKmIs
+Wed 03 Dec 2025 06:35:41 PM EST: Change detected: MODIFY -> index.lock
