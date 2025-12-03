@@ -636,3 +636,4 @@ Wed 03 Dec 2025 05:06:11 PM EST: Change detected: CREATE,ISDIR -> c2
 Wed 03 Dec 2025 05:06:13 PM EST: Change detected: MODIFY -> tmp_obj_mICU3g
 Wed 03 Dec 2025 05:06:14 PM EST: Change detected: CREATE -> 04540a94e20070181be3ed0c1ae5493e773870
 Wed 03 Dec 2025 05:06:15 PM EST: Change detected: DELETE -> tmp_obj_mICU3g
+Wed 03 Dec 2025 05:06:17 PM EST: Change detected: MODIFY -> index.lock
