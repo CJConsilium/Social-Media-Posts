@@ -1002,3 +1002,4 @@ Wed 03 Dec 2025 05:15:52 PM EST: Change detected: DELETE -> tmp_obj_kjFTfg
 Wed 03 Dec 2025 05:15:53 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 05:15:54 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 05:15:56 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 05:15:57 PM EST: Change detected: CREATE -> index.lock
