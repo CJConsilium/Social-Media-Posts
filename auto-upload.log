@@ -4608,3 +4608,4 @@ Wed 03 Dec 2025 06:47:45 PM EST: Change detected: CREATE -> 4cf1e1bed83954f35fb0
 Wed 03 Dec 2025 06:47:46 PM EST: Change detected: DELETE -> tmp_obj_IYSYTb
 Wed 03 Dec 2025 06:47:47 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 06:47:49 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 06:47:50 PM EST: Change detected: MOVED_TO -> index
