@@ -4072,3 +4072,4 @@ Wed 03 Dec 2025 06:36:20 PM EST: Change detected: MODIFY -> tmp_obj_LARTYG
 Wed 03 Dec 2025 06:36:21 PM EST: Change detected: CREATE -> 2ab7e1869bea8a16ad9516319a4ce96f880cf8
 Wed 03 Dec 2025 06:36:22 PM EST: Change detected: DELETE -> tmp_obj_LARTYG
 Wed 03 Dec 2025 06:36:23 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 06:36:25 PM EST: Change detected: MOVED_FROM -> index.lock
