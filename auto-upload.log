@@ -1566,3 +1566,4 @@ Wed 03 Dec 2025 05:29:47 PM EST: Change detected: CREATE -> tmp_obj_kSJWBj
 Wed 03 Dec 2025 05:29:49 PM EST: Change detected: MODIFY -> tmp_obj_kSJWBj
 Wed 03 Dec 2025 05:29:51 PM EST: Change detected: CREATE -> 60a913f3a853473ccfa4a2981a6b5f62be93d7
 Wed 03 Dec 2025 05:29:53 PM EST: Change detected: DELETE -> tmp_obj_kSJWBj
+Wed 03 Dec 2025 05:29:55 PM EST: Change detected: MODIFY -> index.lock
