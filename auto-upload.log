@@ -4744,3 +4744,4 @@ Wed 03 Dec 2025 06:50:34 PM EST: Change detected: MODIFY -> tmp_obj_hWQUPO
 Wed 03 Dec 2025 06:50:35 PM EST: Change detected: CREATE -> ba2f149a44f062e5ef6333c5a92c379488ac40
 Wed 03 Dec 2025 06:50:36 PM EST: Change detected: DELETE -> tmp_obj_hWQUPO
 Wed 03 Dec 2025 06:50:37 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 06:50:38 PM EST: Change detected: MOVED_FROM -> index.lock
