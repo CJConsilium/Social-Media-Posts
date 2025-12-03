@@ -2461,3 +2461,4 @@ Wed 03 Dec 2025 05:54:39 PM EST: Change detected: CREATE -> cad215b3336c4396b54b
 Wed 03 Dec 2025 05:54:40 PM EST: Change detected: DELETE -> tmp_obj_2JPjrn
 Wed 03 Dec 2025 05:54:42 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 05:54:44 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 05:54:45 PM EST: Change detected: MOVED_TO -> index
