@@ -3187,3 +3187,4 @@ Wed 03 Dec 2025 06:16:32 PM EST: Change detected: CREATE -> c68c4655d0762fcb5592
 Wed 03 Dec 2025 06:16:34 PM EST: Change detected: DELETE -> tmp_obj_WalUPB
 Wed 03 Dec 2025 06:16:35 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 06:16:37 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 06:16:38 PM EST: Change detected: MOVED_TO -> index
