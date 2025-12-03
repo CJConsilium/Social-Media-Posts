@@ -439,3 +439,4 @@ Wed 03 Dec 2025 05:01:03 PM EST: Change detected: CREATE -> 99664ff442e6ac382076
 Wed 03 Dec 2025 05:01:04 PM EST: Change detected: DELETE -> tmp_obj_nhMasA
 Wed 03 Dec 2025 05:01:05 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 05:01:07 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 05:01:08 PM EST: Change detected: MOVED_TO -> index
