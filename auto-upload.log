@@ -638,3 +638,4 @@ Wed 03 Dec 2025 05:06:14 PM EST: Change detected: CREATE -> 04540a94e20070181be3
 Wed 03 Dec 2025 05:06:15 PM EST: Change detected: DELETE -> tmp_obj_mICU3g
 Wed 03 Dec 2025 05:06:17 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 05:06:18 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 05:06:19 PM EST: Change detected: MOVED_TO -> index
