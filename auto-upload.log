@@ -18254,3 +18254,4 @@ Thu 04 Dec 2025 01:57:01 AM EST: Change detected: CREATE -> index.lock
 Thu 04 Dec 2025 01:57:02 AM EST: Change detected: CREATE -> tmp_obj_1yg3ex
 Thu 04 Dec 2025 01:57:04 AM EST: Change detected: MODIFY -> tmp_obj_1yg3ex
 Thu 04 Dec 2025 01:57:05 AM EST: Change detected: CREATE -> 06eb663bfef82157a9dbb8b7961e385076d7d5
+Thu 04 Dec 2025 01:57:06 AM EST: Change detected: DELETE -> tmp_obj_1yg3ex
