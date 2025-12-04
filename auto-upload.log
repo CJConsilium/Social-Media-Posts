@@ -16733,3 +16733,4 @@ Thu 04 Dec 2025 01:20:31 AM EST: Change detected: CREATE -> 9d998983cf9af9342966
 Thu 04 Dec 2025 01:20:32 AM EST: Change detected: DELETE -> tmp_obj_BpFoVP
 Thu 04 Dec 2025 01:20:33 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 01:20:35 AM EST: Change detected: MOVED_FROM -> index.lock
+Thu 04 Dec 2025 01:20:36 AM EST: Change detected: MOVED_TO -> index
