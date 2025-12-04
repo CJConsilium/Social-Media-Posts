@@ -6197,3 +6197,4 @@ Wed 03 Dec 2025 07:22:32 PM EST: Change detected: MODIFY -> tmp_obj_SUr2jN
 Wed 03 Dec 2025 07:22:33 PM EST: Change detected: CREATE -> 2d906a2d8fd0494ce31f38afa42bf4baa5a4d2
 Wed 03 Dec 2025 07:22:34 PM EST: Change detected: DELETE -> tmp_obj_SUr2jN
 Wed 03 Dec 2025 07:22:35 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 07:22:37 PM EST: Change detected: MOVED_FROM -> index.lock
