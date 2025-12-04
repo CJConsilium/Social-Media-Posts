@@ -17177,3 +17177,4 @@ Thu 04 Dec 2025 01:31:03 AM EST: Change detected: DELETE -> tmp_obj_21ketB
 Thu 04 Dec 2025 01:31:05 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 01:31:06 AM EST: Change detected: MOVED_FROM -> index.lock
 Thu 04 Dec 2025 01:31:07 AM EST: Change detected: MOVED_TO -> index
+Thu 04 Dec 2025 01:31:09 AM EST: Change detected: CREATE -> index.lock
