@@ -16196,3 +16196,4 @@ Thu 04 Dec 2025 01:07:50 AM EST: Change detected: CREATE -> index.lock
 Thu 04 Dec 2025 01:07:52 AM EST: Change detected: CREATE -> tmp_obj_pE8CSH
 Thu 04 Dec 2025 01:07:53 AM EST: Change detected: MODIFY -> tmp_obj_pE8CSH
 Thu 04 Dec 2025 01:07:55 AM EST: Change detected: CREATE -> b5c4bb8cbf7a2b7f536679bbfc003ddf1f2315
+Thu 04 Dec 2025 01:07:56 AM EST: Change detected: DELETE -> tmp_obj_pE8CSH
