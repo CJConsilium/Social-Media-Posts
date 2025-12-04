@@ -12487,3 +12487,4 @@ Wed 03 Dec 2025 11:09:27 PM EST: Change detected: MODIFY -> tmp_obj_aTUmKd
 Wed 03 Dec 2025 11:09:29 PM EST: Change detected: CREATE -> 450da1c335606d803b29f676baf4c427f22341
 Wed 03 Dec 2025 11:09:31 PM EST: Change detected: DELETE -> tmp_obj_aTUmKd
 Wed 03 Dec 2025 11:09:33 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 11:09:34 PM EST: Change detected: MOVED_FROM -> index.lock
