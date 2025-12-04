@@ -7288,3 +7288,4 @@ Wed 03 Dec 2025 07:47:50 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 07:47:51 PM EST: Change detected: CREATE -> tmp_obj_q7eTVN
 Wed 03 Dec 2025 07:47:53 PM EST: Change detected: MODIFY -> tmp_obj_q7eTVN
 Wed 03 Dec 2025 07:47:54 PM EST: Change detected: CREATE -> bff9c06e9b777148162b7088cd3098f2091858
+Wed 03 Dec 2025 07:47:56 PM EST: Change detected: DELETE -> tmp_obj_q7eTVN
