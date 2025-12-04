@@ -8557,3 +8557,4 @@ Wed 03 Dec 2025 08:40:37 PM EST: Change detected: MODIFY -> tmp_obj_uwlRmd
 Wed 03 Dec 2025 08:40:39 PM EST: Change detected: CREATE -> 47dfc5a1c31bac0feed08ee00509e5e6b39a7c
 Wed 03 Dec 2025 08:40:42 PM EST: Change detected: DELETE -> tmp_obj_uwlRmd
 Wed 03 Dec 2025 08:40:45 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 08:40:48 PM EST: Change detected: MOVED_FROM -> index.lock
