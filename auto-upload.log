@@ -10642,3 +10642,4 @@ Wed 03 Dec 2025 10:00:48 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 10:00:50 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 10:00:54 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 10:00:55 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 10:00:59 PM EST: Change detected: CREATE -> index.lock
