@@ -8011,3 +8011,4 @@ Wed 03 Dec 2025 08:13:39 PM EST: Change detected: CREATE -> bc3fe7296a7fbffc682e
 Wed 03 Dec 2025 08:13:41 PM EST: Change detected: DELETE -> tmp_obj_GETjRX
 Wed 03 Dec 2025 08:13:44 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 08:13:47 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 08:13:51 PM EST: Change detected: MOVED_TO -> index
