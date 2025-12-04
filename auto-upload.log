@@ -12889,3 +12889,4 @@ Wed 03 Dec 2025 11:24:35 PM EST: Change detected: CREATE -> c80a491f148a79e4ba75
 Wed 03 Dec 2025 11:24:38 PM EST: Change detected: DELETE -> tmp_obj_klFvgp
 Wed 03 Dec 2025 11:24:40 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 11:24:42 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 11:24:44 PM EST: Change detected: MOVED_TO -> index
