@@ -18029,3 +18029,4 @@ Thu 04 Dec 2025 01:51:32 AM EST: Change detected: MODIFY -> tmp_obj_llYG4s
 Thu 04 Dec 2025 01:51:34 AM EST: Change detected: CREATE -> 50a324ae55274584abd5c8359b993cdf33e52a
 Thu 04 Dec 2025 01:51:35 AM EST: Change detected: DELETE -> tmp_obj_llYG4s
 Thu 04 Dec 2025 01:51:37 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:51:38 AM EST: Change detected: MOVED_FROM -> index.lock
