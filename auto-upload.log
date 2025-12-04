@@ -13623,3 +13623,5 @@ Wed 03 Dec 2025 11:59:00 PM EST: Change detected: MODIFY -> tmp_obj_FwTlHS
 Wed 03 Dec 2025 11:59:02 PM EST: Change detected: CREATE -> 039b6138e3a3985ad600411ac5277dabbe8849
 Wed 03 Dec 2025 11:59:03 PM EST: Change detected: DELETE -> tmp_obj_FwTlHS
 Wed 03 Dec 2025 11:59:06 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 11:59:08 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 11:59:11 PM EST: Change detected: MOVED_TO -> index
