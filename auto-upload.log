@@ -13594,3 +13594,4 @@ Wed 03 Dec 2025 11:57:15 PM EST: Change detected: MOVED_TO -> main
 Wed 03 Dec 2025 11:57:22 PM EST: Change detected: MODIFY -> auto-upload.log
 Wed 03 Dec 2025 11:57:26 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 11:57:31 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 11:57:35 PM EST: Change detected: MOVED_FROM -> index.lock
