@@ -15731,3 +15731,4 @@ Thu 04 Dec 2025 12:56:17 AM EST: Change detected: MODIFY -> tmp_obj_oMLewg
 Thu 04 Dec 2025 12:56:19 AM EST: Change detected: CREATE -> 8ffbaeb51944d48f73166783c7253899f98698
 Thu 04 Dec 2025 12:56:20 AM EST: Change detected: DELETE -> tmp_obj_oMLewg
 Thu 04 Dec 2025 12:56:22 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 12:56:23 AM EST: Change detected: MOVED_FROM -> index.lock
