@@ -8098,3 +8098,4 @@ Wed 03 Dec 2025 08:17:47 PM EST: Change detected: CREATE -> 867408f67667e60e0e48
 Wed 03 Dec 2025 08:17:49 PM EST: Change detected: DELETE -> tmp_obj_DJrNxV
 Wed 03 Dec 2025 08:17:52 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 08:17:55 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 08:17:57 PM EST: Change detected: MOVED_TO -> index
