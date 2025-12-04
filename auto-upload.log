@@ -15471,3 +15471,4 @@ Thu 04 Dec 2025 12:50:13 AM EST: Change detected: MODIFY -> tmp_obj_vTFa93
 Thu 04 Dec 2025 12:50:14 AM EST: Change detected: CREATE -> c7daf9b56763a1433f89ab318c9b16dbac9be0
 Thu 04 Dec 2025 12:50:16 AM EST: Change detected: DELETE -> tmp_obj_vTFa93
 Thu 04 Dec 2025 12:50:17 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 12:50:20 AM EST: Change detected: MOVED_FROM -> index.lock
