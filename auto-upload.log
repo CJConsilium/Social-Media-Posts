@@ -12150,3 +12150,4 @@ Wed 03 Dec 2025 10:57:00 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 10:57:02 PM EST: Change detected: CREATE -> tmp_obj_9VsKpO
 Wed 03 Dec 2025 10:57:04 PM EST: Change detected: MODIFY -> tmp_obj_9VsKpO
 Wed 03 Dec 2025 10:57:06 PM EST: Change detected: CREATE -> ad0b718b02d0a447200f0813d313ddc15fd7ab
+Wed 03 Dec 2025 10:57:07 PM EST: Change detected: DELETE -> tmp_obj_9VsKpO
