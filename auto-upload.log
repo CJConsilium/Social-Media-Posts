@@ -15829,3 +15829,4 @@ Thu 04 Dec 2025 12:58:35 AM EST: Change detected: CREATE -> tmp_obj_lsyXOz
 Thu 04 Dec 2025 12:58:37 AM EST: Change detected: MODIFY -> tmp_obj_lsyXOz
 Thu 04 Dec 2025 12:58:38 AM EST: Change detected: CREATE -> e9b2ba2410e733eab5f29621d0a891f52be44b
 Thu 04 Dec 2025 12:58:39 AM EST: Change detected: DELETE -> tmp_obj_lsyXOz
+Thu 04 Dec 2025 12:58:41 AM EST: Change detected: MODIFY -> index.lock
