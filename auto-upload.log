@@ -5698,3 +5698,4 @@ Wed 03 Dec 2025 07:11:10 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 07:11:12 PM EST: Change detected: CREATE -> tmp_obj_cZCvct
 Wed 03 Dec 2025 07:11:13 PM EST: Change detected: MODIFY -> tmp_obj_cZCvct
 Wed 03 Dec 2025 07:11:14 PM EST: Change detected: CREATE -> ed919b1c340bf3065097ee1092f83d807e0d56
+Wed 03 Dec 2025 07:11:15 PM EST: Change detected: DELETE -> tmp_obj_cZCvct
