@@ -16989,3 +16989,4 @@ Thu 04 Dec 2025 01:26:34 AM EST: Change detected: MODIFY -> tmp_obj_hRVjEm
 Thu 04 Dec 2025 01:26:36 AM EST: Change detected: CREATE -> f2ade4c54f725a4f7f965601fc793dff2a1452
 Thu 04 Dec 2025 01:26:37 AM EST: Change detected: DELETE -> tmp_obj_hRVjEm
 Thu 04 Dec 2025 01:26:38 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:26:40 AM EST: Change detected: MOVED_FROM -> index.lock
