@@ -15760,3 +15760,4 @@ Thu 04 Dec 2025 12:56:59 AM EST: Change detected: MODIFY -> tmp_obj_IqPFmA
 Thu 04 Dec 2025 12:57:01 AM EST: Change detected: CREATE -> f1f61e8d1e18ec9e8a91a53f5e8ba3f63af225
 Thu 04 Dec 2025 12:57:02 AM EST: Change detected: DELETE -> tmp_obj_IqPFmA
 Thu 04 Dec 2025 12:57:03 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 12:57:05 AM EST: Change detected: MOVED_FROM -> index.lock
