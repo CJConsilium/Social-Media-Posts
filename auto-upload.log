@@ -15698,3 +15698,4 @@ Thu 04 Dec 2025 12:55:32 AM EST: Change detected: MODIFY -> tmp_obj_1DYxus
 Thu 04 Dec 2025 12:55:34 AM EST: Change detected: CREATE -> 221dc3eb8d47feedc73e603f106c7d23811530
 Thu 04 Dec 2025 12:55:35 AM EST: Change detected: DELETE -> tmp_obj_1DYxus
 Thu 04 Dec 2025 12:55:36 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 12:55:38 AM EST: Change detected: MOVED_FROM -> index.lock
