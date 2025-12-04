@@ -16207,3 +16207,4 @@ Thu 04 Dec 2025 01:08:05 AM EST: Change detected: CREATE -> ee227d05521cc3da5a30
 Thu 04 Dec 2025 01:08:07 AM EST: Change detected: DELETE -> tmp_obj_Lei72E
 Thu 04 Dec 2025 01:08:08 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 01:08:09 AM EST: Change detected: MOVED_FROM -> index.lock
+Thu 04 Dec 2025 01:08:11 AM EST: Change detected: MOVED_TO -> index
