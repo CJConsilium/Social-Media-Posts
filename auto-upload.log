@@ -6932,3 +6932,4 @@ Wed 03 Dec 2025 07:39:24 PM EST: Change detected: DELETE -> tmp_obj_D0sTSA
 Wed 03 Dec 2025 07:39:26 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:39:27 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 07:39:29 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 07:39:30 PM EST: Change detected: CREATE -> index.lock
