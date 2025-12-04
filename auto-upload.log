@@ -12300,3 +12300,4 @@ Wed 03 Dec 2025 11:02:26 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 11:02:32 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 11:02:34 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 11:02:36 PM EST: Change detected: CREATE -> index.lock
+Wed 03 Dec 2025 11:02:38 PM EST: Change detected: CREATE -> tmp_obj_DPQnof
