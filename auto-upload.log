@@ -10996,3 +10996,4 @@ Wed 03 Dec 2025 10:14:23 PM EST: Change detected: CREATE -> main.lock
 Wed 03 Dec 2025 10:14:25 PM EST: Change detected: MODIFY -> main.lock
 Wed 03 Dec 2025 10:14:29 PM EST: Change detected: MODIFY -> main
 Wed 03 Dec 2025 10:14:31 PM EST: Change detected: MOVED_FROM -> main.lock
+Wed 03 Dec 2025 10:14:33 PM EST: Change detected: MOVED_TO -> main
