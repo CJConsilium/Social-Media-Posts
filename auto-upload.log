@@ -15441,3 +15441,4 @@ Thu 04 Dec 2025 12:49:33 AM EST: Change detected: CREATE -> tmp_obj_wCBrc9
 Thu 04 Dec 2025 12:49:35 AM EST: Change detected: MODIFY -> tmp_obj_wCBrc9
 Thu 04 Dec 2025 12:49:36 AM EST: Change detected: CREATE -> 07b4918b6619332711120d3f25f2bef38fe6b6
 Thu 04 Dec 2025 12:49:37 AM EST: Change detected: DELETE -> tmp_obj_wCBrc9
+Thu 04 Dec 2025 12:49:39 AM EST: Change detected: MODIFY -> index.lock
