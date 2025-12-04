@@ -11521,3 +11521,4 @@ Wed 03 Dec 2025 10:34:02 PM EST: Change detected: MODIFY -> tmp_obj_DuQf0A
 Wed 03 Dec 2025 10:34:05 PM EST: Change detected: CREATE -> 85fc3a8241e8df27b90e6d63148a30268a6a62
 Wed 03 Dec 2025 10:34:06 PM EST: Change detected: DELETE -> tmp_obj_DuQf0A
 Wed 03 Dec 2025 10:34:09 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 10:34:10 PM EST: Change detected: MOVED_FROM -> index.lock
