@@ -6052,3 +6052,4 @@ Wed 03 Dec 2025 07:19:17 PM EST: Change detected: CREATE -> 6cf5a5b616cde64a7e6e
 Wed 03 Dec 2025 07:19:18 PM EST: Change detected: DELETE -> tmp_obj_nkcHrl
 Wed 03 Dec 2025 07:19:19 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:19:20 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 07:19:22 PM EST: Change detected: MOVED_TO -> index
