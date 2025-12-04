@@ -10123,3 +10123,4 @@ Wed 03 Dec 2025 09:41:31 PM EST: Change detected: DELETE -> tmp_obj_TZOgje
 Wed 03 Dec 2025 09:41:34 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 09:41:36 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 09:41:37 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 09:41:39 PM EST: Change detected: CREATE -> index.lock
