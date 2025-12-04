@@ -13567,3 +13567,4 @@ Wed 03 Dec 2025 11:56:01 PM EST: Change detected: DELETE -> tmp_obj_fknd35
 Wed 03 Dec 2025 11:56:02 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 11:56:04 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 11:56:07 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 11:56:09 PM EST: Change detected: CREATE -> index.lock
