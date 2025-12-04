@@ -18083,3 +18083,4 @@ Thu 04 Dec 2025 01:52:52 AM EST: Change detected: MODIFY -> tmp_obj_RRYod2
 Thu 04 Dec 2025 01:52:54 AM EST: Change detected: CREATE -> 258e7f217b7115fec97723950936a8108ee05a
 Thu 04 Dec 2025 01:52:55 AM EST: Change detected: DELETE -> tmp_obj_RRYod2
 Thu 04 Dec 2025 01:52:57 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:52:58 AM EST: Change detected: MOVED_FROM -> index.lock
