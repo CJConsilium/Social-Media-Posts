@@ -8430,3 +8430,4 @@ Wed 03 Dec 2025 08:34:39 PM EST: Change detected: CREATE -> 2d9471c68167565ffdc9
 Wed 03 Dec 2025 08:34:41 PM EST: Change detected: DELETE -> tmp_obj_jvSm97
 Wed 03 Dec 2025 08:34:46 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 08:34:49 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 08:34:52 PM EST: Change detected: MOVED_TO -> index
