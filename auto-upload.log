@@ -5248,3 +5248,4 @@ Wed 03 Dec 2025 07:01:09 PM EST: Change detected: CREATE -> 594651bfd03205175668
 Wed 03 Dec 2025 07:01:10 PM EST: Change detected: DELETE -> tmp_obj_IOTGGN
 Wed 03 Dec 2025 07:01:11 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:01:12 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 07:01:13 PM EST: Change detected: MOVED_TO -> index
