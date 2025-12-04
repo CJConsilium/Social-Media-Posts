@@ -16200,3 +16200,4 @@ Thu 04 Dec 2025 01:07:56 AM EST: Change detected: DELETE -> tmp_obj_pE8CSH
 Thu 04 Dec 2025 01:07:57 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 01:07:59 AM EST: Change detected: MOVED_FROM -> index.lock
 Thu 04 Dec 2025 01:08:00 AM EST: Change detected: MOVED_TO -> index
+Thu 04 Dec 2025 01:08:01 AM EST: Change detected: CREATE -> index.lock
