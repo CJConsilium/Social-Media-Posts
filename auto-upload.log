@@ -17026,3 +17026,4 @@ Thu 04 Dec 2025 01:27:27 AM EST: Change detected: MODIFY -> tmp_obj_RHeTh6
 Thu 04 Dec 2025 01:27:28 AM EST: Change detected: CREATE -> 22b478a62218bb296019aea0a1f194426f34c5
 Thu 04 Dec 2025 01:27:30 AM EST: Change detected: DELETE -> tmp_obj_RHeTh6
 Thu 04 Dec 2025 01:27:31 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:27:33 AM EST: Change detected: MOVED_FROM -> index.lock
