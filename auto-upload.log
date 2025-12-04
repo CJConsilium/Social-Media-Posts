@@ -6474,3 +6474,4 @@ Wed 03 Dec 2025 07:29:02 PM EST: Change detected: CREATE,ISDIR -> 67
 Wed 03 Dec 2025 07:29:04 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:29:05 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 07:29:06 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 07:29:07 PM EST: Change detected: CREATE -> index.lock
