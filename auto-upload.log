@@ -6264,3 +6264,4 @@ Wed 03 Dec 2025 07:24:03 PM EST: Change detected: CREATE -> 85f2f40a374e322c6818
 Wed 03 Dec 2025 07:24:04 PM EST: Change detected: DELETE -> tmp_obj_uArgeA
 Wed 03 Dec 2025 07:24:05 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:24:06 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 07:24:08 PM EST: Change detected: MOVED_TO -> index
