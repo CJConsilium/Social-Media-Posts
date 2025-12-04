@@ -7852,3 +7852,4 @@ Wed 03 Dec 2025 08:05:53 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 08:05:56 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 08:05:59 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 08:06:03 PM EST: Change detected: CREATE -> index.lock
+Wed 03 Dec 2025 08:06:05 PM EST: Change detected: MODIFY -> index.lock
