@@ -5863,3 +5863,4 @@ Wed 03 Dec 2025 07:15:01 PM EST: Change detected: CREATE -> tmp_obj_xprlTD
 Wed 03 Dec 2025 07:15:03 PM EST: Change detected: MODIFY -> tmp_obj_xprlTD
 Wed 03 Dec 2025 07:15:04 PM EST: Change detected: CREATE -> aa63e0f96b846c32586491029b346859e320f8
 Wed 03 Dec 2025 07:15:05 PM EST: Change detected: DELETE -> tmp_obj_xprlTD
+Wed 03 Dec 2025 07:15:07 PM EST: Change detected: MODIFY -> index.lock
