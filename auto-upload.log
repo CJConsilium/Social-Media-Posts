@@ -15289,3 +15289,4 @@ Thu 04 Dec 2025 12:46:00 AM EST: Change detected: MODIFY -> tmp_obj_XTEQbS
 Thu 04 Dec 2025 12:46:02 AM EST: Change detected: CREATE -> 4e0522dd7b689902ce34ffb1bc0c1b1c7479a9
 Thu 04 Dec 2025 12:46:03 AM EST: Change detected: DELETE -> tmp_obj_XTEQbS
 Thu 04 Dec 2025 12:46:05 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 12:46:06 AM EST: Change detected: MOVED_FROM -> index.lock
