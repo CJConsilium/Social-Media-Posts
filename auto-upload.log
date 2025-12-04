@@ -5619,3 +5619,4 @@ Wed 03 Dec 2025 07:09:26 PM EST: Change detected: CREATE -> b9873b6466d1ff72178a
 Wed 03 Dec 2025 07:09:28 PM EST: Change detected: DELETE -> tmp_obj_MVZjLt
 Wed 03 Dec 2025 07:09:29 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:09:30 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 07:09:32 PM EST: Change detected: MOVED_TO -> index
