@@ -7471,3 +7471,4 @@ Wed 03 Dec 2025 07:52:04 PM EST: Change detected: MODIFY -> tmp_obj_NgFhL9
 Wed 03 Dec 2025 07:52:06 PM EST: Change detected: CREATE -> 0d4ea6d50dccb5cfd6a223b46bf197aa59511c
 Wed 03 Dec 2025 07:52:07 PM EST: Change detected: DELETE -> tmp_obj_NgFhL9
 Wed 03 Dec 2025 07:52:08 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 07:52:10 PM EST: Change detected: MOVED_FROM -> index.lock
