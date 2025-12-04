@@ -17960,3 +17960,4 @@ Thu 04 Dec 2025 01:49:53 AM EST: Change detected: CREATE -> tmp_obj_qxKpLt
 Thu 04 Dec 2025 01:49:54 AM EST: Change detected: MODIFY -> tmp_obj_qxKpLt
 Thu 04 Dec 2025 01:49:56 AM EST: Change detected: CREATE -> 35eaa5047ddd5e7f8a116bfbfd8ed9cdcf0f62
 Thu 04 Dec 2025 01:49:57 AM EST: Change detected: DELETE -> tmp_obj_qxKpLt
+Thu 04 Dec 2025 01:49:58 AM EST: Change detected: MODIFY -> index.lock
