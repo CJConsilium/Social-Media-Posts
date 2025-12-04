@@ -12517,3 +12517,4 @@ Wed 03 Dec 2025 11:10:30 PM EST: Change detected: CREATE -> 7ea1c77f458f926bc697
 Wed 03 Dec 2025 11:10:31 PM EST: Change detected: DELETE -> tmp_obj_POAIco
 Wed 03 Dec 2025 11:10:33 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 11:10:37 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 11:10:39 PM EST: Change detected: MOVED_TO -> index
