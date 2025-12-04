@@ -5517,3 +5517,4 @@ Wed 03 Dec 2025 07:07:07 PM EST: Change detected: MODIFY -> tmp_obj_rbjJXw
 Wed 03 Dec 2025 07:07:08 PM EST: Change detected: CREATE -> 6a08318caaccbfa124eb6af8687823d8ddd2fd
 Wed 03 Dec 2025 07:07:10 PM EST: Change detected: DELETE -> tmp_obj_rbjJXw
 Wed 03 Dec 2025 07:07:11 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 07:07:12 PM EST: Change detected: MOVED_FROM -> index.lock
