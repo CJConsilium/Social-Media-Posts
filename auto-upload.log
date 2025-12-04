@@ -6629,3 +6629,4 @@ Wed 03 Dec 2025 07:32:33 PM EST: Change detected: MODIFY -> tmp_obj_ymaHdP
 Wed 03 Dec 2025 07:32:34 PM EST: Change detected: CREATE -> 5e6538678f4aae443b04581cf55c941b5098fe
 Wed 03 Dec 2025 07:32:35 PM EST: Change detected: DELETE -> tmp_obj_ymaHdP
 Wed 03 Dec 2025 07:32:37 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 07:32:38 PM EST: Change detected: MOVED_FROM -> index.lock
