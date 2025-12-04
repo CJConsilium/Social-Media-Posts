@@ -11451,3 +11451,4 @@ Wed 03 Dec 2025 10:31:17 PM EST: Change detected: MODIFY -> tmp_obj_B7xzrJ
 Wed 03 Dec 2025 10:31:23 PM EST: Change detected: CREATE -> 0e88fea10d2ff5620a95336e250aa01c05b71b
 Wed 03 Dec 2025 10:31:26 PM EST: Change detected: DELETE -> tmp_obj_B7xzrJ
 Wed 03 Dec 2025 10:31:28 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 10:31:31 PM EST: Change detected: MOVED_FROM -> index.lock
