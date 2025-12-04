@@ -14535,3 +14535,4 @@ Thu 04 Dec 2025 12:28:36 AM EST: Change detected: CREATE -> tmp_obj_ODI03k
 Thu 04 Dec 2025 12:28:37 AM EST: Change detected: MODIFY -> tmp_obj_ODI03k
 Thu 04 Dec 2025 12:28:39 AM EST: Change detected: CREATE -> 003fe5402ebd9855c0f0d1c6fa377dd89374db
 Thu 04 Dec 2025 12:28:40 AM EST: Change detected: DELETE -> tmp_obj_ODI03k
+Thu 04 Dec 2025 12:28:42 AM EST: Change detected: MODIFY -> index.lock
