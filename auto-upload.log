@@ -14756,3 +14756,4 @@ Thu 04 Dec 2025 12:33:40 AM EST: Change detected: CREATE -> 34b9146db3ddff88434d
 Thu 04 Dec 2025 12:33:42 AM EST: Change detected: DELETE -> tmp_obj_NtdJsA
 Thu 04 Dec 2025 12:33:43 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 12:33:45 AM EST: Change detected: MOVED_FROM -> index.lock
+Thu 04 Dec 2025 12:33:46 AM EST: Change detected: MOVED_TO -> index
