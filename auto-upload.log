@@ -13309,3 +13309,4 @@ Wed 03 Dec 2025 11:40:36 PM EST: Change detected: DELETE -> tmp_obj_enRU21
 Wed 03 Dec 2025 11:40:38 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 11:40:41 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 11:40:44 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 11:40:47 PM EST: Change detected: CREATE -> index.lock
