@@ -17774,3 +17774,4 @@ Thu 04 Dec 2025 01:45:24 AM EST: Change detected: MODIFY -> tmp_obj_63DArj
 Thu 04 Dec 2025 01:45:25 AM EST: Change detected: CREATE -> 410c8eb866b5cec5804d5e8173c0842ee2b449
 Thu 04 Dec 2025 01:45:27 AM EST: Change detected: DELETE -> tmp_obj_63DArj
 Thu 04 Dec 2025 01:45:28 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:45:30 AM EST: Change detected: MOVED_FROM -> index.lock
