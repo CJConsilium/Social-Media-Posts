@@ -14689,3 +14689,4 @@ Thu 04 Dec 2025 12:32:07 AM EST: Change detected: MODIFY -> tmp_obj_NHjssm
 Thu 04 Dec 2025 12:32:08 AM EST: Change detected: CREATE -> 80f95fb97c782cd90bd46a1e3e23080a19c4b4
 Thu 04 Dec 2025 12:32:09 AM EST: Change detected: DELETE -> tmp_obj_NHjssm
 Thu 04 Dec 2025 12:32:11 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 12:32:12 AM EST: Change detected: MOVED_FROM -> index.lock
