@@ -12030,3 +12030,4 @@ Wed 03 Dec 2025 10:52:48 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 10:52:50 PM EST: Change detected: CREATE -> tmp_obj_iOOMMI
 Wed 03 Dec 2025 10:52:51 PM EST: Change detected: MODIFY -> tmp_obj_iOOMMI
 Wed 03 Dec 2025 10:52:55 PM EST: Change detected: CREATE -> 7305af0ac24b7337bc459b4fb0e352625f075e
+Wed 03 Dec 2025 10:52:57 PM EST: Change detected: DELETE -> tmp_obj_iOOMMI
