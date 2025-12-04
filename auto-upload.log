@@ -11361,3 +11361,4 @@ Wed 03 Dec 2025 10:27:50 PM EST: Change detected: CREATE -> a2befafb34312121f4fb
 Wed 03 Dec 2025 10:27:51 PM EST: Change detected: DELETE -> tmp_obj_HeCCWe
 Wed 03 Dec 2025 10:27:53 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 10:27:56 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 10:27:59 PM EST: Change detected: MOVED_TO -> index
