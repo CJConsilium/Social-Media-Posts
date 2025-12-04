@@ -18118,3 +18118,4 @@ Thu 04 Dec 2025 01:53:44 AM EST: Change detected: DELETE -> tmp_obj_Qpht4y
 Thu 04 Dec 2025 01:53:45 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 01:53:46 AM EST: Change detected: MOVED_FROM -> index.lock
 Thu 04 Dec 2025 01:53:48 AM EST: Change detected: MOVED_TO -> index
+Thu 04 Dec 2025 01:53:49 AM EST: Change detected: CREATE -> index.lock
