@@ -9119,3 +9119,4 @@ Wed 03 Dec 2025 09:03:42 PM EST: Change detected: MODIFY -> tmp_obj_swelmu
 Wed 03 Dec 2025 09:03:44 PM EST: Change detected: CREATE -> 5ddd96c4710fbc1eadebc37629aea27f94ec2b
 Wed 03 Dec 2025 09:03:46 PM EST: Change detected: DELETE -> tmp_obj_swelmu
 Wed 03 Dec 2025 09:03:48 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 09:03:51 PM EST: Change detected: MOVED_FROM -> index.lock
