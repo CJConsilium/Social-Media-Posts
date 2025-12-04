@@ -8760,3 +8760,4 @@ Wed 03 Dec 2025 08:49:59 PM EST: Change detected: MODIFY -> tmp_obj_JQSkvd
 Wed 03 Dec 2025 08:50:01 PM EST: Change detected: CREATE -> 4f7ea53b46a38bb008c76e18569583704dc0f0
 Wed 03 Dec 2025 08:50:03 PM EST: Change detected: DELETE -> tmp_obj_JQSkvd
 Wed 03 Dec 2025 08:50:08 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 08:50:12 PM EST: Change detected: MOVED_FROM -> index.lock
