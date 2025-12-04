@@ -17303,3 +17303,4 @@ Thu 04 Dec 2025 01:34:03 AM EST: Change detected: MODIFY -> tmp_obj_naM0Xc
 Thu 04 Dec 2025 01:34:05 AM EST: Change detected: CREATE -> f8a047a676daad8643ea15a8ea1efa564e0aa2
 Thu 04 Dec 2025 01:34:06 AM EST: Change detected: DELETE -> tmp_obj_naM0Xc
 Thu 04 Dec 2025 01:34:07 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:34:09 AM EST: Change detected: MOVED_FROM -> index.lock
