@@ -15889,3 +15889,4 @@ Thu 04 Dec 2025 01:00:00 AM EST: Change detected: CREATE -> e6efba9050ee8d3e0381
 Thu 04 Dec 2025 01:00:01 AM EST: Change detected: DELETE -> tmp_obj_ObsV7Z
 Thu 04 Dec 2025 01:00:03 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 01:00:04 AM EST: Change detected: MOVED_FROM -> index.lock
+Thu 04 Dec 2025 01:00:05 AM EST: Change detected: MOVED_TO -> index
