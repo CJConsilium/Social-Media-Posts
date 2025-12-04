@@ -12879,3 +12879,4 @@ Wed 03 Dec 2025 11:24:12 PM EST: Change detected: CREATE -> tmp_obj_eprbtA
 Wed 03 Dec 2025 11:24:15 PM EST: Change detected: MODIFY -> tmp_obj_eprbtA
 Wed 03 Dec 2025 11:24:16 PM EST: Change detected: CREATE -> 17aecd7483e834b1a5e63b06fa9a2548d92aae
 Wed 03 Dec 2025 11:24:19 PM EST: Change detected: DELETE -> tmp_obj_eprbtA
+Wed 03 Dec 2025 11:24:21 PM EST: Change detected: MODIFY -> index.lock
