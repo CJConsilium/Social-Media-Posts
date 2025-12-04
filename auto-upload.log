@@ -7919,3 +7919,4 @@ Wed 03 Dec 2025 08:09:21 PM EST: Change detected: MODIFY -> tmp_obj_Ga6eMf
 Wed 03 Dec 2025 08:09:24 PM EST: Change detected: CREATE -> 9118406ed5df5415d52692545096efa9ecb877
 Wed 03 Dec 2025 08:09:28 PM EST: Change detected: DELETE -> tmp_obj_Ga6eMf
 Wed 03 Dec 2025 08:09:31 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 08:09:33 PM EST: Change detected: MOVED_FROM -> index.lock
