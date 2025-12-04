@@ -15161,3 +15161,4 @@ Thu 04 Dec 2025 12:43:03 AM EST: Change detected: MODIFY -> tmp_obj_cgj7Ng
 Thu 04 Dec 2025 12:43:04 AM EST: Change detected: CREATE -> fb66405c6161cf287fc9e206329823d1148f17
 Thu 04 Dec 2025 12:43:06 AM EST: Change detected: DELETE -> tmp_obj_cgj7Ng
 Thu 04 Dec 2025 12:43:07 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 12:43:08 AM EST: Change detected: MOVED_FROM -> index.lock
