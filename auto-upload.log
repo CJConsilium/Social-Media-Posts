@@ -5865,3 +5865,4 @@ Wed 03 Dec 2025 07:15:04 PM EST: Change detected: CREATE -> aa63e0f96b846c325864
 Wed 03 Dec 2025 07:15:05 PM EST: Change detected: DELETE -> tmp_obj_xprlTD
 Wed 03 Dec 2025 07:15:07 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:15:08 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 07:15:10 PM EST: Change detected: MOVED_TO -> index
