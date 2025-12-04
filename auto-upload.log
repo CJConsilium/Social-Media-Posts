@@ -6413,3 +6413,4 @@ Wed 03 Dec 2025 07:27:40 PM EST: Change detected: CREATE -> 5541e53e703cf466a6f9
 Wed 03 Dec 2025 07:27:41 PM EST: Change detected: DELETE -> tmp_obj_4idCRN
 Wed 03 Dec 2025 07:27:43 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:27:44 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 07:27:45 PM EST: Change detected: MOVED_TO -> index
