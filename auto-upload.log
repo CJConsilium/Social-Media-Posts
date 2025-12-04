@@ -16962,3 +16962,4 @@ Thu 04 Dec 2025 01:25:56 AM EST: Change detected: CREATE -> index.lock
 Thu 04 Dec 2025 01:25:57 AM EST: Change detected: CREATE -> tmp_obj_S4Rcqi
 Thu 04 Dec 2025 01:25:59 AM EST: Change detected: MODIFY -> tmp_obj_S4Rcqi
 Thu 04 Dec 2025 01:26:00 AM EST: Change detected: CREATE -> dbe1b3cbdfdf270a43f82abb9d4c3c19592d52
+Thu 04 Dec 2025 01:26:01 AM EST: Change detected: DELETE -> tmp_obj_S4Rcqi
