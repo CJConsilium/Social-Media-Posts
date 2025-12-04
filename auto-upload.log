@@ -17278,3 +17278,4 @@ Thu 04 Dec 2025 01:33:28 AM EST: Change detected: MODIFY -> tmp_obj_QrIzIr
 Thu 04 Dec 2025 01:33:30 AM EST: Change detected: CREATE -> f321aba2c967a7da45021f494b51818bc93e30
 Thu 04 Dec 2025 01:33:31 AM EST: Change detected: DELETE -> tmp_obj_QrIzIr
 Thu 04 Dec 2025 01:33:33 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:33:34 AM EST: Change detected: MOVED_FROM -> index.lock
