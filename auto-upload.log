@@ -11911,3 +11911,4 @@ Wed 03 Dec 2025 10:48:37 PM EST: Change detected: MODIFY -> tmp_obj_wCF2fp
 Wed 03 Dec 2025 10:48:39 PM EST: Change detected: CREATE -> 3ef56dfad5305f808345625a76b2e65e92aa6c
 Wed 03 Dec 2025 10:48:41 PM EST: Change detected: DELETE -> tmp_obj_wCF2fp
 Wed 03 Dec 2025 10:48:42 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 10:48:44 PM EST: Change detected: MOVED_FROM -> index.lock
