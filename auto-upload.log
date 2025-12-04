@@ -12027,3 +12027,4 @@ Wed 03 Dec 2025 10:52:42 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 10:52:44 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 10:52:46 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 10:52:48 PM EST: Change detected: CREATE -> index.lock
+Wed 03 Dec 2025 10:52:50 PM EST: Change detected: CREATE -> tmp_obj_iOOMMI
