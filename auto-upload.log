@@ -12884,3 +12884,4 @@ Wed 03 Dec 2025 11:24:22 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 11:24:24 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 11:24:26 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 11:24:30 PM EST: Change detected: CREATE -> tmp_obj_klFvgp
+Wed 03 Dec 2025 11:24:32 PM EST: Change detected: MODIFY -> tmp_obj_klFvgp
