@@ -6088,3 +6088,4 @@ Wed 03 Dec 2025 07:20:05 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 07:20:07 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 07:20:08 PM EST: Change detected: MODIFY -> COMMIT_EDITMSG
 Wed 03 Dec 2025 07:20:09 PM EST: Change detected: CREATE,ISDIR -> 03
+Wed 03 Dec 2025 07:20:11 PM EST: Change detected: CREATE -> HEAD.lock
