@@ -6809,3 +6809,4 @@ Wed 03 Dec 2025 07:36:36 PM EST: Change detected: MODIFY -> tmp_obj_VNM3M5
 Wed 03 Dec 2025 07:36:37 PM EST: Change detected: CREATE -> cc9017d573f8b361a1225dce8ff0af755ebf9b
 Wed 03 Dec 2025 07:36:39 PM EST: Change detected: DELETE -> tmp_obj_VNM3M5
 Wed 03 Dec 2025 07:36:40 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 07:36:41 PM EST: Change detected: MOVED_FROM -> index.lock
