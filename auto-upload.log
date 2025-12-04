@@ -5770,3 +5770,4 @@ Wed 03 Dec 2025 07:12:48 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:12:50 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 07:12:51 PM EST: Change detected: MOVED_TO -> index
 Wed 03 Dec 2025 07:12:52 PM EST: Change detected: MODIFY -> COMMIT_EDITMSG
+Wed 03 Dec 2025 07:12:53 PM EST: Change detected: CREATE,ISDIR -> 8d
