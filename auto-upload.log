@@ -17737,3 +17737,4 @@ Thu 04 Dec 2025 01:44:33 AM EST: Change detected: MOVED_FROM -> index.lock
 Thu 04 Dec 2025 01:44:34 AM EST: Change detected: MOVED_TO -> index
 Thu 04 Dec 2025 01:44:35 AM EST: Change detected: CREATE -> index.lock
 Thu 04 Dec 2025 01:44:37 AM EST: Change detected: CREATE -> tmp_obj_R25IbJ
+Thu 04 Dec 2025 01:44:38 AM EST: Change detected: MODIFY -> tmp_obj_R25IbJ
