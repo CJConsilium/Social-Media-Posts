@@ -15590,3 +15590,4 @@ Thu 04 Dec 2025 12:53:03 AM EST: Change detected: CREATE -> tmp_obj_zKRtf3
 Thu 04 Dec 2025 12:53:04 AM EST: Change detected: MODIFY -> tmp_obj_zKRtf3
 Thu 04 Dec 2025 12:53:06 AM EST: Change detected: CREATE -> dec36c9cc710bfc3da2072abe8df63fb5a98fc
 Thu 04 Dec 2025 12:53:07 AM EST: Change detected: DELETE -> tmp_obj_zKRtf3
+Thu 04 Dec 2025 12:53:08 AM EST: Change detected: MODIFY -> index.lock
