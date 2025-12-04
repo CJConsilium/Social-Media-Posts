@@ -15281,3 +15281,4 @@ Thu 04 Dec 2025 12:45:49 AM EST: Change detected: MODIFY -> tmp_obj_GiqX8H
 Thu 04 Dec 2025 12:45:51 AM EST: Change detected: CREATE -> 9c9d785a842ea7a3c77a93c229926876ae09e9
 Thu 04 Dec 2025 12:45:52 AM EST: Change detected: DELETE -> tmp_obj_GiqX8H
 Thu 04 Dec 2025 12:45:53 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 12:45:55 AM EST: Change detected: MOVED_FROM -> index.lock
