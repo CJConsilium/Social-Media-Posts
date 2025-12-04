@@ -14077,3 +14077,4 @@ Thu 04 Dec 2025 12:17:27 AM EST: Change detected: MOVED_FROM -> index.lock
 Thu 04 Dec 2025 12:17:30 AM EST: Change detected: MOVED_TO -> index
 Thu 04 Dec 2025 12:17:33 AM EST: Change detected: CREATE -> index.lock
 Thu 04 Dec 2025 12:17:35 AM EST: Change detected: CREATE -> tmp_obj_VfAMSR
+Thu 04 Dec 2025 12:17:36 AM EST: Change detected: MODIFY -> tmp_obj_VfAMSR
