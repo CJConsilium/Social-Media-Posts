@@ -10761,3 +10761,4 @@ Wed 03 Dec 2025 10:05:35 PM EST: Change detected: CREATE -> df299287418011191984
 Wed 03 Dec 2025 10:05:37 PM EST: Change detected: DELETE -> tmp_obj_T6GuPT
 Wed 03 Dec 2025 10:05:40 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 10:05:42 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 10:05:44 PM EST: Change detected: MOVED_TO -> index
