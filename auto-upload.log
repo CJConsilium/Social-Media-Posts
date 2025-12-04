@@ -7658,3 +7658,4 @@ Wed 03 Dec 2025 07:57:40 PM EST: Change detected: CREATE -> cb3a063196fe03205b8b
 Wed 03 Dec 2025 07:57:44 PM EST: Change detected: DELETE -> tmp_obj_fDnsYd
 Wed 03 Dec 2025 07:57:49 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:57:50 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 07:57:53 PM EST: Change detected: MOVED_TO -> index
