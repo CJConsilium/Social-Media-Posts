@@ -17335,3 +17335,4 @@ Thu 04 Dec 2025 01:34:49 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 01:34:50 AM EST: Change detected: MOVED_FROM -> index.lock
 Thu 04 Dec 2025 01:34:52 AM EST: Change detected: MOVED_TO -> index
 Thu 04 Dec 2025 01:34:53 AM EST: Change detected: CREATE -> index.lock
+Thu 04 Dec 2025 01:34:55 AM EST: Change detected: CREATE -> tmp_obj_KtvHpI
