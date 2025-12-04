@@ -7599,3 +7599,4 @@ Wed 03 Dec 2025 07:55:40 PM EST: Change detected: MODIFY -> tmp_obj_Nvft3Y
 Wed 03 Dec 2025 07:55:42 PM EST: Change detected: CREATE -> c5e1b10e5c6ee5c19ee85047f9afe97d85724a
 Wed 03 Dec 2025 07:55:44 PM EST: Change detected: DELETE -> tmp_obj_Nvft3Y
 Wed 03 Dec 2025 07:55:47 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 07:55:48 PM EST: Change detected: MOVED_FROM -> index.lock
