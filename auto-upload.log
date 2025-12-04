@@ -6384,3 +6384,4 @@ Wed 03 Dec 2025 07:26:59 PM EST: Change detected: CREATE -> f6bf1119f5fd9f07464e
 Wed 03 Dec 2025 07:27:01 PM EST: Change detected: DELETE -> tmp_obj_IpVzau
 Wed 03 Dec 2025 07:27:02 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 07:27:03 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 07:27:05 PM EST: Change detected: MOVED_TO -> index
