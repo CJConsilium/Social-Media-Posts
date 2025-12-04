@@ -17800,3 +17800,4 @@ Thu 04 Dec 2025 01:46:01 AM EST: Change detected: CREATE -> b8efec99f3afb0d80414
 Thu 04 Dec 2025 01:46:02 AM EST: Change detected: DELETE -> tmp_obj_GLaxTn
 Thu 04 Dec 2025 01:46:03 AM EST: Change detected: MODIFY -> index.lock
 Thu 04 Dec 2025 01:46:06 AM EST: Change detected: MOVED_FROM -> index.lock
+Thu 04 Dec 2025 01:46:08 AM EST: Change detected: MOVED_TO -> index
