@@ -10030,3 +10030,4 @@ Wed 03 Dec 2025 09:38:14 PM EST: Change detected: MODIFY -> tmp_obj_JF2ygk
 Wed 03 Dec 2025 09:38:15 PM EST: Change detected: CREATE -> 2718fbaf130ba882d3675cb668eda606e38d5b
 Wed 03 Dec 2025 09:38:17 PM EST: Change detected: DELETE -> tmp_obj_JF2ygk
 Wed 03 Dec 2025 09:38:18 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 09:38:20 PM EST: Change detected: MOVED_FROM -> index.lock
