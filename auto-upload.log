@@ -10355,3 +10355,4 @@ Wed 03 Dec 2025 09:49:57 PM EST: Change detected: CREATE -> cbe74a6fe13012c9c4e0
 Wed 03 Dec 2025 09:49:59 PM EST: Change detected: DELETE -> tmp_obj_veKGlo
 Wed 03 Dec 2025 09:50:01 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 09:50:02 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 09:50:04 PM EST: Change detected: MOVED_TO -> index
