@@ -17270,3 +17270,4 @@ Thu 04 Dec 2025 01:33:16 AM EST: Change detected: MODIFY -> tmp_obj_GECaJf
 Thu 04 Dec 2025 01:33:17 AM EST: Change detected: CREATE -> 51a543c513ed2997019289222d2ef47dd84cc6
 Thu 04 Dec 2025 01:33:20 AM EST: Change detected: DELETE -> tmp_obj_GECaJf
 Thu 04 Dec 2025 01:33:21 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:33:22 AM EST: Change detected: MOVED_FROM -> index.lock
