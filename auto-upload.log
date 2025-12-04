@@ -16600,3 +16600,4 @@ Thu 04 Dec 2025 01:17:20 AM EST: Change detected: MODIFY -> tmp_obj_yHVETL
 Thu 04 Dec 2025 01:17:23 AM EST: Change detected: CREATE -> bc2399b7a1b7bd0dec5552584a26ae7a6aac09
 Thu 04 Dec 2025 01:17:25 AM EST: Change detected: DELETE -> tmp_obj_yHVETL
 Thu 04 Dec 2025 01:17:28 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:17:30 AM EST: Change detected: MOVED_FROM -> index.lock
