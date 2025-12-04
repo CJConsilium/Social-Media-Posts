@@ -11211,3 +11211,4 @@ Wed 03 Dec 2025 10:22:27 PM EST: Change detected: MODIFY -> tmp_obj_oRCVPx
 Wed 03 Dec 2025 10:22:29 PM EST: Change detected: CREATE -> 74508797564b9703dccf976702b98606a0a205
 Wed 03 Dec 2025 10:22:31 PM EST: Change detected: DELETE -> tmp_obj_oRCVPx
 Wed 03 Dec 2025 10:22:33 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 10:22:35 PM EST: Change detected: MOVED_FROM -> index.lock
