@@ -12336,3 +12336,4 @@ Wed 03 Dec 2025 11:03:50 PM EST: Change detected: DELETE -> tmp_obj_tAGvAG
 Wed 03 Dec 2025 11:03:51 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 11:03:54 PM EST: Change detected: MOVED_FROM -> index.lock
 Wed 03 Dec 2025 11:03:55 PM EST: Change detected: MOVED_TO -> index
+Wed 03 Dec 2025 11:03:57 PM EST: Change detected: CREATE -> index.lock
