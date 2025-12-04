@@ -8798,3 +8798,4 @@ Wed 03 Dec 2025 08:51:30 PM EST: Change detected: MODIFY -> tmp_obj_rEDvt3
 Wed 03 Dec 2025 08:51:32 PM EST: Change detected: CREATE -> bac8e9ea5e7f34f13e73756a334d698153b38f
 Wed 03 Dec 2025 08:51:34 PM EST: Change detected: DELETE -> tmp_obj_rEDvt3
 Wed 03 Dec 2025 08:51:36 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 08:51:39 PM EST: Change detected: MOVED_FROM -> index.lock
