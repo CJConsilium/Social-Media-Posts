@@ -6043,3 +6043,4 @@ Wed 03 Dec 2025 07:19:05 PM EST: Change detected: MODIFY -> tmp_obj_C82JSS
 Wed 03 Dec 2025 07:19:07 PM EST: Change detected: CREATE -> 1028b5be70f0ba8c72cab5b9db38ae3c2b46f5
 Wed 03 Dec 2025 07:19:08 PM EST: Change detected: DELETE -> tmp_obj_C82JSS
 Wed 03 Dec 2025 07:19:09 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 07:19:10 PM EST: Change detected: MOVED_FROM -> index.lock
