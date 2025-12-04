@@ -17741,3 +17741,4 @@ Thu 04 Dec 2025 01:44:38 AM EST: Change detected: MODIFY -> tmp_obj_R25IbJ
 Thu 04 Dec 2025 01:44:39 AM EST: Change detected: CREATE -> d9508edeb4e97a63a31eaf32da07f51f10e24f
 Thu 04 Dec 2025 01:44:41 AM EST: Change detected: DELETE -> tmp_obj_R25IbJ
 Thu 04 Dec 2025 01:44:42 AM EST: Change detected: MODIFY -> index.lock
+Thu 04 Dec 2025 01:44:43 AM EST: Change detected: MOVED_FROM -> index.lock
