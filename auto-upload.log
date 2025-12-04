@@ -5488,3 +5488,4 @@ Wed 03 Dec 2025 07:06:30 PM EST: Change detected: MODIFY -> tmp_obj_BB4jFW
 Wed 03 Dec 2025 07:06:32 PM EST: Change detected: CREATE -> ecc105816c4c8d9f789d578b94eb649fb7a610
 Wed 03 Dec 2025 07:06:33 PM EST: Change detected: DELETE -> tmp_obj_BB4jFW
 Wed 03 Dec 2025 07:06:34 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 07:06:35 PM EST: Change detected: MOVED_FROM -> index.lock
