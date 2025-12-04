@@ -11032,3 +11032,4 @@ Wed 03 Dec 2025 10:15:35 PM EST: Change detected: CREATE -> tmp_obj_0AXIc3
 Wed 03 Dec 2025 10:15:37 PM EST: Change detected: MODIFY -> tmp_obj_0AXIc3
 Wed 03 Dec 2025 10:15:39 PM EST: Change detected: CREATE -> 6e6826c8bf5973ab4d171e8f00d0f964f6b4fe
 Wed 03 Dec 2025 10:15:41 PM EST: Change detected: DELETE -> tmp_obj_0AXIc3
+Wed 03 Dec 2025 10:15:43 PM EST: Change detected: MODIFY -> index.lock
