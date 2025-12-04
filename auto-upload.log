@@ -10848,3 +10848,4 @@ Wed 03 Dec 2025 10:08:52 PM EST: Change detected: CREATE -> bdf210a122d25723abc7
 Wed 03 Dec 2025 10:08:54 PM EST: Change detected: DELETE -> tmp_obj_JziFPc
 Wed 03 Dec 2025 10:08:57 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 10:08:59 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 10:09:00 PM EST: Change detected: MOVED_TO -> index
