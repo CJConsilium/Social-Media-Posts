@@ -13220,3 +13220,4 @@ Wed 03 Dec 2025 11:37:15 PM EST: Change detected: MODIFY -> tmp_obj_FEHAzl
 Wed 03 Dec 2025 11:37:18 PM EST: Change detected: CREATE -> 22dafd32c1ccdb3f94145f85cca6b18ac5e220
 Wed 03 Dec 2025 11:37:20 PM EST: Change detected: DELETE -> tmp_obj_FEHAzl
 Wed 03 Dec 2025 11:37:22 PM EST: Change detected: MODIFY -> index.lock
+Wed 03 Dec 2025 11:37:23 PM EST: Change detected: MOVED_FROM -> index.lock
