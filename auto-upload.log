@@ -8799,3 +8799,4 @@ Wed 03 Dec 2025 08:51:32 PM EST: Change detected: CREATE -> bac8e9ea5e7f34f13e73
 Wed 03 Dec 2025 08:51:34 PM EST: Change detected: DELETE -> tmp_obj_rEDvt3
 Wed 03 Dec 2025 08:51:36 PM EST: Change detected: MODIFY -> index.lock
 Wed 03 Dec 2025 08:51:39 PM EST: Change detected: MOVED_FROM -> index.lock
+Wed 03 Dec 2025 08:51:41 PM EST: Change detected: MOVED_TO -> index
