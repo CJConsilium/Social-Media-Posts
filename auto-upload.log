@@ -6352,3 +6352,4 @@ Wed 03 Dec 2025 07:26:00 PM EST: Change detected: CREATE -> index.lock
 Wed 03 Dec 2025 07:26:01 PM EST: Change detected: CREATE -> tmp_obj_HgZOSD
 Wed 03 Dec 2025 07:26:03 PM EST: Change detected: MODIFY -> tmp_obj_HgZOSD
 Wed 03 Dec 2025 07:26:05 PM EST: Change detected: CREATE -> 29c2e5f61ff7d94b74bce13bc384cd7b6e00e2
+Wed 03 Dec 2025 07:26:07 PM EST: Change detected: DELETE -> tmp_obj_HgZOSD
